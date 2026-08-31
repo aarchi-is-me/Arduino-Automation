@@ -1,5 +1,5 @@
 long period = 2048;
-long duty = 10;
+long duty = 1000;
 int redled = 7;
 void setup() {
   // put your setup code here, to run once:

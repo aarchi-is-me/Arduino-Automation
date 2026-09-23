@@ -1,5 +1,5 @@
 int IrSensor=7;
-int ledPin=8;
+int ledPin=13;
 
 void setup() {
   // put your setup code here, to run once:
